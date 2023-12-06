@@ -1,0 +1,2 @@
+productPrice, //*[@id="inventory_container"]/div/div[1]/div[2]/div[2]/div
+addToCartButton, //*[@id="add-to-cart-sauce-labs-backpack"]

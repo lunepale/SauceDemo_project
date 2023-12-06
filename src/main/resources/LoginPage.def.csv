@@ -1,0 +1,3 @@
+usernameField, //*[@id="login_credentials"]/text()[1]
+passwordField, //*[@id="root"]
+loginButton, //*[@id="login-button"]
